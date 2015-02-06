@@ -4,7 +4,7 @@ Summary:	Feedforward multi-layer neural network for Octave
 
 Name:		octave-%{pkgname}
 Version:	0.1.13
-Release:        2
+Release:        3
 Source0:	%{pkgname}-%{version}.tar.gz
 License:	GPLv2+
 Group:		Sciences/Mathematics
